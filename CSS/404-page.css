@@ -1,0 +1,20 @@
+.error-page{
+    padding: 1em;
+    text-align: center;
+}
+.error-page h2{
+    font-size: 20em;
+    color: #555555;
+}
+.error-page p{
+    font-size: 2.5em;
+    color: #555555;
+    padding-bottom: 1em;
+}
+.error-page a{
+   font-size: 1.3em;
+   background-color: #22accc;;
+   text-decoration: none;
+   color: #fff;
+   padding: .5em .5em;
+}

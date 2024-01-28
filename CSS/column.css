@@ -1,0 +1,21 @@
+.Columns h3{
+    font-size: 1.2em;
+    padding: 1em 0em;
+}
+.Columns p{
+   
+    padding: 1em 0em;
+}
+.col9-col3{
+    display: flex;
+    gap: 1em;
+    justify-content: space-between;
+}
+.cloumn-6{
+    display: flex;
+    gap: 1em;
+    justify-content: space-between;
+}
+.col6-col6{
+    width: 50%;
+}
